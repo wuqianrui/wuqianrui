@@ -77,7 +77,7 @@
         },
         {
             "project_name": "深圳水务集团水务系统",
-            "project_role": "Android 开发",
+            "project_role": "Android开发",
             "project_time": "2020 - 2022",
             "project_desc": "辅助龙华区、福田区、宝安区，消防栓，排水阀 等城市资产进行业务表单上报。",
             "project_content": "1. 离线表单上报，实现数据\n2. 地图轨迹上报以及优化\n3. 采用 ArcGis 实现地图信息检索\n4. RFID 感应关联 \n5. 单兵机通讯对讲联调",
