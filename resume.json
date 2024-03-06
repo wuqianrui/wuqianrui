@@ -19,7 +19,7 @@
         "github": "",
         "zhihu": "",
         "workExpYear": "",
-        "positionTitle": "Android 开发工程师"
+        "positionTitle": "前端开发工程师"
     },
     "educationList": [
         {
@@ -70,9 +70,17 @@
         {
             "project_name": "前海安科院工程管理",
             "project_role": "小程序开发",
-            "project_time": "2223.11 - 至今",
+            "project_time": "2023.11 - 至今",
             "project_desc": "辅助安科院进行装修项目申报，报备，检修，整改流程。",
             "project_content": "在该项目中主要负责业务端以及客户端\n1. 依据 Tarojs 搭建小程序框架\n2. 移植 echart 图表\n3. 使用 Playwright 脚本爬取特定业务数据\n4. 自定义业务组件，如 打分树 、多级联动表",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "无锡公安访客系统",
+            "project_role": "小程序开发",
+            "project_time": "2021.06 - 至今",
+            "project_desc": "无锡公安访客预约系统小程序开发。",
+            "project_content": "在该项目中主要负责业务端以及客户端\n1. 依据 Tarojs 搭建小程序框架\n2. 对接身份识别系统 \n 3. 对接车位实时停放信息 ",
             "dataIndex": 1
         },
         {
